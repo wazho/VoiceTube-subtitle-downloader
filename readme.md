@@ -1,6 +1,6 @@
-![xdd](readme/01.png)
+![01](readme/01.png)
 
-![xdd](readme/02.png)
+![02](readme/02.png)
 
 ---
 
