@@ -1,10 +1,16 @@
 ![01](readme/01.png)
 
+### Download progress
+
 ![02](readme/02.png)
+
+### Subtitle
+
+![03](readme/03.png)
 
 ---
 
-* Install [Node.js](https://nodejs.org/). ( above v0.12 )
+* Install [Node.js](https://nodejs.org/). ( v0.12 or later )
 
 * Choose videos you wanna download in 'VoiceTube.com'.
 
