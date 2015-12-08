@@ -6,7 +6,7 @@
 
 * Install [Node.js](https://nodejs.org/). ( above v0.12 )
 
-* Choose videos your wanna download in 'VoiceTube.com'.
+* Choose videos you wanna download in 'VoiceTube.com'.
 
 ```
 // Plz open the app.js file, and change the text line 21.
